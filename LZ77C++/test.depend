@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1414444769 source:c:\users\omar\desktop\test\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1414489944 source:c:\users\salah\desktop\test\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
